@@ -10,42 +10,33 @@
     font-size: 4rem;
 }
 .item-1 {
-    border: 5px solid #f8bbd0;
+    border: 5px solid #c30044;
     background-color: #ffeeff;
-    grid-column-start: 1;
-    grid-column-end: 2;
+    grid-area: 1 / 1 / 2 / 2;
 }
 .item-2 {
-    border: 5px solid #e1bee7;
+    border: 5px solid rgb(5, 163, 0);
     background-color: #fff1ff;
-    grid-row: 2 / 4;
+    grid-area: 1 / 2 / 2 / 4;
 }
 .item-3 {
-    border: 5px solid #b2ebf2;
+    border: 5px solid #4f5805;
     background-color: #e5ffff;
-    grid-area: 2 / 2 / 4 / 4;
+    grid-area: 2 / 1 / 2 / 3;
 }
 .item-4{
-    border: 5px solid #0f4f58;
+    border: 5px solid #d43cee;
     background-color: #e5ffff;
 }
 .item-5{
-    border: 5px solid #798788;
+    border: 5px solid #41a1a8;
     background-color: #e5ffff;
 }
 .item-6{
-    border: 5px solid #b2ebf2;
+    border: 5px solid #000000;
     background-color: #e5ffff;
 }
 .item-7{
-    border: 5px solid #f2b2d3;
-    background-color: #e5ffff;
-}
-.item-8{
-    border: 5px solid #b2f2c0;
-    background-color: #e5ffff;
-}
-.item-9{
-    border: 5px solid #c5b2f2;
+    border: 5px solid #280416;
     background-color: #e5ffff;
 }
